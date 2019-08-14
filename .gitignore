@@ -1,0 +1,7 @@
+/Regexp/.vs
+*.dll
+*.exe
+/Regexp/Regexp/bin
+/Regexp/Regexp/obj
+/Regexp/Test/bin
+/Regexp/Test/obj
